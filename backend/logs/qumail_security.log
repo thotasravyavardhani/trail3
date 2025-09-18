@@ -1,0 +1,68 @@
+{"timestamp": "2025-09-18T05:32:59.251719", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T05:32:59.251881", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T06:23:20.614105", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T06:23:20.614273", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T06:23:51.969707", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T06:23:51.969844", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T06:31:34.839152", "level": "INFO", "module": "qumail", "message": "KM Mock server stopped and keys wiped", "component": "unknown"}
+{"timestamp": "2025-09-18T06:31:34.839444", "level": "INFO", "module": "qumail", "message": "QuMail backend shutdown", "component": "unknown"}
+{"timestamp": "2025-09-18T06:31:36.716612", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T06:31:36.716738", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T06:31:38.021825", "level": "INFO", "module": "qumail", "message": "KM Mock server stopped and keys wiped", "component": "unknown"}
+{"timestamp": "2025-09-18T06:31:38.022010", "level": "INFO", "module": "qumail", "message": "QuMail backend shutdown", "component": "unknown"}
+{"timestamp": "2025-09-18T06:34:43.394959", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T06:34:43.395115", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T07:06:10.404264", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T07:06:10.404399", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T07:06:47.478816", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T07:06:47.478936", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T07:09:49.783431", "level": "ERROR", "module": "qumail", "message": "Email credential validation failed for thotasravyavardhani@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:28:44.775559", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T07:28:44.776126", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T07:34:38.852493", "level": "INFO", "module": "qumail", "message": "KM Mock server stopped and keys wiped", "component": "unknown"}
+{"timestamp": "2025-09-18T07:34:38.852597", "level": "INFO", "module": "qumail", "message": "QuMail backend shutdown", "component": "unknown"}
+{"timestamp": "2025-09-18T07:34:41.185850", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T07:34:41.186002", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T07:38:48.839822", "level": "INFO", "module": "qumail", "message": "KM Mock server stopped and keys wiped", "component": "unknown"}
+{"timestamp": "2025-09-18T07:38:48.840249", "level": "INFO", "module": "qumail", "message": "QuMail backend shutdown", "component": "unknown"}
+{"timestamp": "2025-09-18T07:38:55.519562", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T07:38:55.519686", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T07:40:33.392004", "level": "INFO", "module": "qumail", "message": "KM Mock server stopped and keys wiped", "component": "unknown"}
+{"timestamp": "2025-09-18T07:40:33.392145", "level": "INFO", "module": "qumail", "message": "QuMail backend shutdown", "component": "unknown"}
+{"timestamp": "2025-09-18T07:40:36.648372", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T07:40:36.648495", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T07:41:24.374632", "level": "INFO", "module": "qumail", "message": "KM Mock server stopped and keys wiped", "component": "unknown"}
+{"timestamp": "2025-09-18T07:41:24.374764", "level": "INFO", "module": "qumail", "message": "QuMail backend shutdown", "component": "unknown"}
+{"timestamp": "2025-09-18T07:41:26.983595", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T07:41:26.983718", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T07:47:31.910586", "level": "INFO", "module": "qumail", "message": "KM Mock server stopped and keys wiped", "component": "unknown"}
+{"timestamp": "2025-09-18T07:47:31.910722", "level": "INFO", "module": "qumail", "message": "QuMail backend shutdown", "component": "unknown"}
+{"timestamp": "2025-09-18T07:47:34.944145", "level": "INFO", "module": "qumail", "message": "KM Mock server starting on port 8001", "component": "unknown"}
+{"timestamp": "2025-09-18T07:47:34.944315", "level": "INFO", "module": "qumail", "message": "QuMail backend started successfully", "component": "unknown"}
+{"timestamp": "2025-09-18T07:47:35.139862", "level": "ERROR", "module": "qumail", "message": "Validation error on https://951eec73-a280-47d6-828d-b13cf2d1f033-00-2x1jonlxrc275.sisko.replit.dev/api/auth/login: [{'type': 'missing', 'loc': ('body', 'email'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.11/v/missing'}, {'type': 'missing', 'loc': ('body', 'password'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.11/v/missing'}, {'type': 'missing', 'loc': ('body', 'imap_server'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.11/v/missing'}, {'type': 'missing', 'loc': ('body', 'smtp_server'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.11/v/missing'}]", "component": "unknown"}
+{"timestamp": "2025-09-18T07:50:48.535928", "level": "INFO", "module": "qumail", "message": "Login attempt for email: thotadevisujatha@gmail.com, imap_server: imap.gmail.com, smtp_server: smtp.gmail.com", "component": "unknown"}
+{"timestamp": "2025-09-18T07:50:52.481946", "level": "INFO", "module": "qumail", "message": "Email credentials validated for thotadevisujatha@gmail.com", "component": "unknown"}
+{"timestamp": "2025-09-18T07:50:56.093119", "level": "ERROR", "module": "qumail", "message": "Failed to create IMAP connection for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:50:56.093247", "level": "ERROR", "module": "qumail", "message": "Failed to fetch inbox for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:50:57.731999", "level": "ERROR", "module": "qumail", "message": "Failed to create IMAP connection for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:50:57.732186", "level": "ERROR", "module": "qumail", "message": "Failed to fetch inbox for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:51:04.198385", "level": "ERROR", "module": "qumail", "message": "Failed to create IMAP connection for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:51:04.198958", "level": "ERROR", "module": "qumail", "message": "Failed to fetch inbox for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:51:07.661623", "level": "ERROR", "module": "qumail", "message": "Failed to create IMAP connection for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:51:07.661735", "level": "ERROR", "module": "qumail", "message": "Failed to fetch sent emails for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:51:09.132824", "level": "ERROR", "module": "qumail", "message": "Failed to create IMAP connection for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:51:09.132931", "level": "ERROR", "module": "qumail", "message": "Failed to fetch sent emails for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:51:53.890593", "level": "ERROR", "module": "qumail", "message": "Failed to create SMTP connection for thotadevisujatha@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2698018a472sm17311265ad.58 - gsmtp')", "component": "unknown"}
+{"timestamp": "2025-09-18T07:51:53.890725", "level": "ERROR", "module": "qumail", "message": "Failed to send email from thotadevisujatha@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2698018a472sm17311265ad.58 - gsmtp')", "component": "unknown"}
+{"timestamp": "2025-09-18T07:51:53.890844", "level": "ERROR", "module": "qumail", "message": "Failed to compose email: 'body'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:52:26.809124", "level": "ERROR", "module": "qumail", "message": "Failed to create IMAP connection for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:52:26.809616", "level": "ERROR", "module": "qumail", "message": "Failed to fetch inbox for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:52:28.142701", "level": "ERROR", "module": "qumail", "message": "Failed to create IMAP connection for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:52:28.142960", "level": "ERROR", "module": "qumail", "message": "Failed to fetch inbox for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T07:54:11.341944", "level": "ERROR", "module": "qumail", "message": "Failed to create SMTP connection for thotadevisujatha@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b54ff447060sm1504196a12.53 - gsmtp')", "component": "unknown"}
+{"timestamp": "2025-09-18T07:54:11.342083", "level": "ERROR", "module": "qumail", "message": "Failed to send email from thotadevisujatha@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b54ff447060sm1504196a12.53 - gsmtp')", "component": "unknown"}
+{"timestamp": "2025-09-18T07:54:11.342236", "level": "ERROR", "module": "qumail", "message": "Failed to compose email: 'body'", "component": "unknown"}
+{"timestamp": "2025-09-18T08:06:26.776826", "level": "ERROR", "module": "qumail", "message": "Failed to create IMAP connection for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T08:06:26.777461", "level": "ERROR", "module": "qumail", "message": "Failed to fetch inbox for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T08:06:29.013397", "level": "ERROR", "module": "qumail", "message": "Failed to create IMAP connection for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
+{"timestamp": "2025-09-18T08:06:29.014149", "level": "ERROR", "module": "qumail", "message": "Failed to fetch inbox for thotadevisujatha@gmail.com: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'", "component": "unknown"}
